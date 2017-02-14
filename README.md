@@ -1,1 +1,3 @@
 # cookieClicks
+
+Have FUN!
